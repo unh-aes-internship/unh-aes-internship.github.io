@@ -49,6 +49,9 @@ Students will secure an internship experience to complete the required minimum h
     -	Outline expectations you have from the internship experience.
 
 *Applied Research Option*<br>
+
+The academic work hours for the applied research project may not involve one’s regular work hours on site or be compensated unless the company or site supervisor agrees to do so.
+
 If you are employed in the field, instead of internship work hours you are required to conduct applied research in IT. The project should meet specific IT needs identified by the organization where you work or another sponsoring organization.  This requires that you:
 -	Meet with workplace supervisor to discuss project’s goal and objectives.
 -	Meet with faculty advisor to finalize project’s scope, content, development plan, and expected outcomes.
