@@ -7,11 +7,7 @@ permalink: /data690/
 <h3>Course Syllabus</h3>
 
 **BASIC INFORMATION**<br />
-**Course Information**<br />
-Name:			DATA 690 Internship Experience<br />
-Credits: 		3<br />
-Term: 			Summer 2019<br />
-Location:		Rm128, Pandora Mill building<br />
+Course Name:  DATA 690 Internship Experience<br />
 
 **Course Description**<br />
 A field-based learning experience via placement in a business, non-profit, or government organization using analytics. Under the guidance of a faculty advisor and workplace supervisor, students gain practical experience solving problems and improving operational processes using analytics. Prereq:UMST 599: Internship and Career Planning Seminar.
@@ -45,18 +41,22 @@ Students will secure an internship experience to complete the required minimum h
 *	Contact faculty advisor to review placement options and procedures.
 *	Interview with internship sponsors to locate an appropriate experience.
 *	After an internship offer is made and accepted, meet with the workplace supervisor to:
-    *	Determine your duties and responsibilities at the internship site.
-    *	Outline expectations you have from the internship experience.
+*	Determine your duties and responsibilities at the internship site.
+*	Outline expectations you have from the internship experience.
 
 *Applied Research Option*<br />
 
+If you are employed in the field, instead of internship work hours you are required to conduct applied research in IT. The project should meet specific IT needs identified by the organization where you work or another sponsoring organization.  This requires that you:
+
+*   Propose project ideas, e.g. research projects. The scope of the project may or may not directly relate to your current job assignment.
+*   Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project;
+*   Meet with faculty advisor to finalize project’s scope, content, development plan, and expected outcomes;
+*   Complete the minimum number of work hours on your project based on the number of credits you register for the course. Seek feedback from your supervisor during the project.
+
 The academic work hours for the applied research project may not involve one’s regular work hours on site or be compensated unless the company or site supervisor agrees to do so.
 
-If you are employed in the field, instead of internship work hours you are required to conduct applied research in IT. The project should meet specific IT needs identified by the organization where you work or another sponsoring organization. This requires that you:
-*	Meet with workplace supervisor to discuss project’s goal and objectives.
-*	Meet with faculty advisor to finalize project’s scope, content, development plan, and expected outcomes.
-*	Complete minimum number of work hours on your project based on the number of credits you register for the course.
-You need to submit a research project proposal. The proposal is limited 2 pages, and it should identify the content and scope of the project, a development plan with intermediate milestones, and expected outcomes. The proposal is due by the Friday of the second week in the semester.
+You need to submit a research project proposal. The proposal is limited to no more than 2 pages, and it should identify the content and scope of the project, a development plan with intermediate milestones, and expected outcomes.
+
 
 *Approval Process for Both Options*<br />
 Students are required to:
@@ -70,7 +70,7 @@ Best Practices are:<br />
 *	Let your internship supervisors know they will be getting a request for approval from the Handshake platform. All the supervisor has to do is review and click yes or no for approval. The UNHM Career and Professional Success (CaPS) will connect the employer later on for evaluation purposes.
 
 
-**Required Paperwork and Submissions.**  
+**Required Paperwork and Submissions.**
 A record of your semester long internship experience will be assembled as a portfolio of paperwork and other required documents.  The portfolio should contain the following components.
 
 *Part I: Internship Weekly Work Log:* contains weekly entries. Each entry is dated and represents a commentary on the work you are doing, what you learn, and challenges you experience. You need to also log the hours you have worked for the week and the total accumulative hours for the internship (till current week).  See Appendix A for weekly log format.
@@ -78,8 +78,8 @@ A record of your semester long internship experience will be assembled as a port
 *Part II: Final Report:* explains the nature and outcomes of the work you have accomplished.
 •	See Appendix B for report requirement.
 
-*Part III: Progress Presentation Slides*  
-*	During the semester, each student is required to present to the class their current status and progress of internship in two of the class meetings.  
+*Part III: Progress Presentation Slides*
+*	During the semester, each student is required to present to the class their current status and progress of internship in two of the class meetings.
 *	Each presentation is limited to 10-15 minutes and should include 5-8 slides.  See Appendix C for presentation guidelines.
 
 *Part IV: Internship Site Evaluation*
@@ -102,16 +102,16 @@ Grading in this course is based on the following items. You need to complete all
 *	Completion of weekly work log for the minimal required work hours (20%)
 *	Final project report (20%)
 *	Completion of in-class progress presentations. (30%)
-    * Completion of two in-class progress presentations. (20%)  
+    * Completion of two in-class progress presentations. (20%)
     * Completion of two slide decks for the presentation. (10%)
-*	Class Participation. (30%)  
+*	Class Participation. (30%)
     * Attendance at scheduled class meetings. (15%)
-    * Participation of all class discussions (10%)  
+    * Participation of all class discussions (10%)
     * Request to join in UNHM COMPTECH online [LinkedIn group](https://www.linkedin.com/groups/4485737/)  (5%)
 
 *	(Optional for summer semesters) Participation in UNH Manchester URC/Winter Symposium poster presentation and the submission of poster file.
 
-The grading also takes into consideration the evaluation by workplace supervisor.  Missing evaluation will result in 10% deduction to your final grade.  On the other hand, very positive evaluation can earn you up to 10% extra bonus points to your final grade.  
+The grading also takes into consideration the evaluation by workplace supervisor.  Missing evaluation will result in 10% deduction to your final grade.  On the other hand, very positive evaluation can earn you up to 10% extra bonus points to your final grade.
 
 **COURSE POLICIES REGARDING STUDENT BEHAVIOR**
 
@@ -120,7 +120,7 @@ Students are responsible for attending scheduled meetings and expected to abide 
 
 Students who cannot attend a scheduled meeting have the responsibility to email the instructor about the circumstances and request to be excused for the meeting. Otherwise, a zero grade will be given for the class meeting.
 
-If a student is more than 5 minutes late for a class, there will be 10% point deduction for every minute of tardiness after 5 minutes.  
+If a student is more than 5 minutes late for a class, there will be 10% point deduction for every minute of tardiness after 5 minutes.
 
 
 **Late submissions of portfolio artifacts**<br />
