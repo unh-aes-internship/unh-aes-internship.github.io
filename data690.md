@@ -27,31 +27,31 @@ Upon completion of this course, students should be able to:
 
 **Internship Work Hours & Placement**<br />
 
-Students need to complete the minimal number of onsite work hours based on the list below, OR the completion of an applied research project with the same hours.
+Students need to complete the minimal number of hours for onsite work OR the completion of an applied research project based on the list below
 
-* 150 work hours for 4 credits.
-* 120 work hours for 3 credits.
-* 80 hours for 2 credits.
-* 40 hours for 1 credit.
+* 120 work hours for 3 credits
+* 80 hours for 2 credits
+* 40 hours for 1 credit
 
 Students have two placement options:
 
-*Internship Work Option*<br />
+*Internship Work Option*<br>
 Students will secure an internship experience to complete the required minimum hours of onsite work hours. You should:
-*	Contact faculty advisor to review placement options and procedures.
-*	Interview with internship sponsors to locate an appropriate experience.
-*	After an internship offer is made and accepted, meet with the workplace supervisor to:
-*	Determine your duties and responsibilities at the internship site.
-*	Outline expectations you have from the internship experience.
+-   Contact faculty advisor to review placement options and procedures.
+-   Interview with internship sponsors to locate an appropriate experience.
+-   After an internship offer is made and accepted, meet with the workplace supervisor to:
+    -   Determine your duties and responsibilities at the internship site.
+    -   Outline expectations you have from the internship experience.
 
 *Applied Research Option*<br />
 
 If you are employed in the field, instead of internship work hours you are required to conduct applied research in IT. The project should meet specific IT needs identified by the organization where you work or another sponsoring organization.  This requires that you:
 
-*   Propose project ideas, e.g. research projects. The scope of the project may or may not directly relate to your current job assignment.
+*   Propose project ideas, e.g., research projects. The scope of the project may or may not directly relate to the current job assignment, depending on your time commitment, availability of your supervisor or company policy.
 *   Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project;
-*   Meet with faculty advisor to finalize project’s scope, content, development plan, and expected outcomes;
-*   Complete the minimum number of work hours on your project based on the number of credits you register for the course. Seek feedback from your supervisor during the project.
+*   Meet with the internship faculty advisor to finalize project’s scope, content, development plan, and expected outcomes;
+*   Complete the minimum number of work hours on the project based on the number of credits you register for the course. Seek feedback from your supervisor during the project.
+
 
 The academic work hours for the applied research project may not involve one’s regular work hours on site or be compensated unless the company or site supervisor agrees to do so.
 
@@ -69,49 +69,43 @@ Best Practices are:<br />
 *	Monitor the approval process on Handshake until it is fully approved. You can learn exactly where the process is by logging into Handshake. If someone makes a request for you to change something, you will want to respond promptly.
 *	Let your internship supervisors know they will be getting a request for approval from the Handshake platform. All the supervisor has to do is review and click yes or no for approval. The UNHM Career and Professional Success (CaPS) will connect the employer later on for evaluation purposes.
 
+**Required Paperwork and Submissions.**<br>
+A record of the semester-long internship experience will be assembled as a portfolio of paperwork and other required documents.  The portfolio should contain the following components.
 
-**Required Paperwork and Submissions.**
-A record of your semester long internship experience will be assembled as a portfolio of paperwork and other required documents.  The portfolio should contain the following components.
+*Internship Documents*<br>
+-    Internship position post and offer letter OR statement of project goal and objectives.
+-    Sponsoring Organization:
+    -    Discussion of the organization and specific IT support system. Indicate your understanding of the company and professional field you are working in. Include any relevant literature about the organization.
+    -    Memos or documents you developed as part of your work at OR for the organization. The Internship Documents, once completed, should be submitted to the Internship and Career Planning office.
+-    Evaluation form from the workplace supervisor, which will be solicited at the end of the internship.
 
-*Part I: Internship Weekly Work Log:* contains weekly entries. Each entry is dated and represents a commentary on the work you are doing, what you learn, and challenges you experience. You need to also log the hours you have worked for the week and the total accumulative hours for the internship (till current week).  See Appendix A for weekly log format.
+*Internship Weekly Work Log:*<br>
+The work log contains weekly entries. Each entry is dated and represents a commentary on the work you are doing, what you have learned, and the challenges faced.  You also need to log the hours have worked for the week and the total accumulative hours for the internship (till the current week). The weekly log entry is submitted through MyCourses and must be submitted every week.
 
-*Part II: Final Report:* explains the nature and outcomes of the work you have accomplished.
-•	See Appendix B for report requirement.
+*Final Report:*<br>
+The final report explains the nature and outcomes of the work accomplished.
 
-*Part III: Progress Presentation Slides*
-*	During the semester, each student is required to present to the class their current status and progress of internship in two of the class meetings.
-*	Each presentation is limited to 10-15 minutes and should include 5-8 slides.  See Appendix C for presentation guidelines.
+If you choose the applied research option, you need to also submit a research project proposal prior to the beginning of your project. The proposal is limited to no more than two pages, and it should identify the content and scope of the project, a development plan with intermediate milestones, and expected outcomes.
+The Final Report should be submitted through MyCourses.
 
-*Part IV: Internship Site Evaluation*
-*	Evaluation from the workplace supervisor. The evaluation will be collected directly from your supervisor by CaPS office.
+*Class Meetings and Progress Presentation:*
 
-**Class Meetings**<br />
-Participation in the scheduled class meetings is required. We will have 3 to 5 class meetings during this semester. Participation of in-class meeting through a Zoom connection is available with permission under special circumstance.
-
-Each student should present to the class their current status and progress of internship in two of the meetings.
+**Class Meetings**
+-    Participation in the scheduled class meetings is required. We will have 3 to 5 class meetings during each semester.
+-    You are required to participate in all scheduled meetings and present your work progress during the meetings.
 
 **GRADING AND EVALUATION OF STUDENT WORK**
 
-Grading in this course is based on the following items. You need to complete all requirements in order to receive a grade.
-*	Completion of the minimal number of onsite work hours based on the list below, OR the completion of an applied research project.
-    * 150 internship work hours for 4 credits.
-    * 120 internship work hours for 3 credits.
-    * 80 internship work hours for 2 credits.
-    * 40 internship work hours for 1 credit.
+To earn the CR grade in the course, you will need to complete
+-    all required internship documents/paperwork.
+-    the total work hour requirements (based on your registered credits)
+-    weekly logs to log the required number of work hours.
+-    a final report.
+-    all required in-class presentations and out of class discussions.
 
-*	Completion of weekly work log for the minimal required work hours (20%)
-*	Final project report (20%)
-*	Completion of in-class progress presentations. (30%)
-    * Completion of two in-class progress presentations. (20%)
-    * Completion of two slide decks for the presentation. (10%)
-*	Class Participation. (30%)
-    * Attendance at scheduled class meetings. (15%)
-    * Participation of all class discussions (10%)
-    * Request to join in UNHM COMPTECH online [LinkedIn group](https://www.linkedin.com/groups/4485737/)  (5%)
+Students must fulfill all the above requirements to receive a final grade.
 
-*	(Optional for summer semesters) Participation in UNH Manchester URC/Winter Symposium poster presentation and the submission of poster file.
-
-The grading also takes into consideration the evaluation by workplace supervisor.  Missing evaluation will result in 10% deduction to your final grade.  On the other hand, very positive evaluation can earn you up to 10% extra bonus points to your final grade.
+The grading also takes into consideration the evaluation by workplace supervisor.  Missing evaluation will result in deduction to your final grade.  On the other hand, very positive evaluation can earn you up to extra bonus points to your final grade.
 
 **COURSE POLICIES REGARDING STUDENT BEHAVIOR**
 
@@ -119,8 +113,6 @@ The grading also takes into consideration the evaluation by workplace supervisor
 Students are responsible for attending scheduled meetings and expected to abide by the University Policy on Attendance (as stated in the *UNH Student Rights, Rules, and Responsibilities*).
 
 Students who cannot attend a scheduled meeting have the responsibility to email the instructor about the circumstances and request to be excused for the meeting. Otherwise, a zero grade will be given for the class meeting.
-
-If a student is more than 5 minutes late for a class, there will be 10% point deduction for every minute of tardiness after 5 minutes.
 
 
 **Late submissions of portfolio artifacts**<br />
@@ -134,4 +126,4 @@ An internship is a learning opportunity, and as such, it is subject to the same 
 See [Academic Honesty](http://www.unh.edu/vpsas/handbook/academic-honesty) for more information.
 
 **STUDENTS WITH DISABILITIES**<br />
-UNH Manchester is committed to providing students with disabilities with a learning experience which assures them of equal access to all programs and facilities of the University, which makes all reasonable academic aids and adjustments for their disabilities and provides them with maximum independence and the full range of participation in all areas of life at UNH Manchester. Students who need to document their disability and determine any accommodations, services, or referrals should schedule an appointment with the UNH Manchester Disability Services Coordinator by calling 641-4170. For more information, please see [link](http://manchester.unh.edu/student/disability).
+UNH Manchester is committed to providing students with disabilities with a learning experience which assures them of equal access to all programs and facilities of the University, which makes all reasonable academic aids and adjustments for their disabilities and provides them with maximum independence and the full range of participation in all areas of life at UNH Manchester. Students who need to document their disability and determine any accommodations, services, or referrals should schedule an appointment with the UNH Manchester Disability Services Coordinator by calling 641-4170.
