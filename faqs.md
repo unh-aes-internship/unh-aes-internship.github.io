@@ -20,15 +20,15 @@ permalink: /faqs/
 <details>
 <summary><b>Do I still need to take the course if I am currently working?</b></summary>
 <p>Yes, you do. Even if you are currently working or have worked in the past, you will still need to take the Internship Experience course as a degree requirement. However, you don't need to search for another internship position if you are currently working in the field. You may use the applied research option. You will need to
+<ul>
+<li> Propose project ideas, e.g., research projects. The scope of the project may or may not directly relate to the current job assignment, depending on your time commitment, availability of your supervisor or company policy. </li>
 
-*   Propose project ideas, e.g., research projects. The scope of the project may or may not directly relate to the current job assignment, depending on your time commitment, availability of your supervisor or company policy.
+</li> Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project; </li>
 
-*   Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project;
+<li> Meet with the internship faculty advisor to finalize project’s scope, content, development plan, and expected outcomes; You also need to submit a research project proposal.</li>
 
-*   Meet with the internship faculty advisor to finalize project’s scope, content, development plan, and expected outcomes; You also need to submit a research project proposal.
-
-*   Complete the minimum number of work hours on the project based on the number of credits you register for the course. Seek feedback from your supervisor during the project.
-
+<li>   Complete the minimum number of work hours on the project based on the number of credits you register for the course. Seek feedback from your supervisor during the project.</li>
+</ul>
 
 The academic work hours for the applied research project may not involve one’s regular work hours on site or be compensated unless the company or site supervisor agrees to do so.  If you have further questions, please contact the course instructor.
 </p>
