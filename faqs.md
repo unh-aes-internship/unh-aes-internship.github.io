@@ -19,7 +19,17 @@ permalink: /faqs/
 
 <details>
 <summary><b>Do I still need to take the course if I am currently working?</b></summary>
-<p>Yes, you do. Even if you are currently working or have worked in the past, you will still need to take the Internship Experience course as a degree requirement. However, you don't need to take another internship position if you are currently working in the field. You may use the applied research option to fulfill the course requirements. Please contact the course instructor for more details.
+<p>Yes, you do. Even if you are currently working or have worked in the past, you will still need to take the Internship Experience course as a degree requirement. However, you don't need to search for another internship position if you are currently working in the field. You may use the applied research option. You will need to
+*   Propose project ideas, e.g., research projects. The scope of the project may or may not directly relate to the current job assignment, depending on your time commitment, availability of your supervisor or company policy.
+*   Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project;
+*   Meet with the internship faculty advisor to finalize project’s scope, content, development plan, and expected outcomes;
+*   Complete the minimum number of work hours on the project based on the number of credits you register for the course. Seek feedback from your supervisor during the project.
+
+The academic work hours for the applied research project may not involve one’s regular work hours on site or be compensated unless the company or site supervisor agrees to do so.
+
+You need to submit a research project proposal. The proposal is limited to no more than 2 pages, and it should identify the content and scope of the project, a development plan with intermediate milestones, and expected outcomes.
+
+If you have further questions, please contact the course instructor.
 </p>
 </details>
 
@@ -71,7 +81,7 @@ permalink: /faqs/
 <p>Weekly logs are due on Sunday at 11:59 pm of every week you worked at your internship until you complete the hours at your internship necessary for gaining the required credit hours.
 </p>
 <p>
-One credit hour is roughly equally to 40 hours of internship work. For example, if you are enrolled in 3 credit hours of Internship Experience class then you have to complete 120 hours of internship.  You don't have to submit more weekly logs after you reach the total hours required based on your registered credits. Also, you don't need to submit any logs for the weeks you have not worked. </p>
+One credit hour is equal to 40 hours of internship work. For example, if you are enrolled in 3 credit hours of Internship Experience class then you have to complete 120 hours of internship.  You don't have to submit more weekly logs after you reach the total hours required based on your registered credits. Also, you don't need to submit any logs for the weeks you have not worked. </p>
 </details>
 
 
