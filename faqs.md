@@ -23,7 +23,7 @@ permalink: /faqs/
 <ul>
 <li> Propose project ideas, e.g., research projects. The scope of the project may or may not directly relate to the current job assignment, depending on your time commitment, availability of your supervisor or company policy. </li>
 
-</li> Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project; </li>
+<li> Meet with your potential workplace supervisor to discuss project’s goal and objectives, and ask for their approval to supervise your project; </li>
 
 <li> Meet with the internship faculty advisor to finalize project’s scope, content, development plan, and expected outcomes; You also need to submit a research project proposal.</li>
 
