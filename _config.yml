@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Internship Experience
 description: Useful for Internship
-baseurl: "/internship-website/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unh-aes-internship.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
