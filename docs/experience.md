@@ -61,5 +61,5 @@ nav_order: 4
 <b>Where does UNH students mostly get their internships?</b>
 ![Locations](InternshipStates.jpg)
 
-<b>What are the positions that most of the UNH students working?</b>
+<b>What are the positions in which UNH students are interning?</b>
 ![Titles](InternshipTitles.jpg)
