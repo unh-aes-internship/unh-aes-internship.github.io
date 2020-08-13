@@ -10,7 +10,7 @@ nav_order: 4
   <div class="column">
     <div class="card">
     <a href="surya">
-    <img class = "myImage" src="https://media-exp1.licdn.com/dms/image/C4E03AQFplfjVioIlXA/profile-displayphoto-shrink_800_800/0?e=1601510400&v=beta&t=uHsRdtBfzk0HaFx35_wV6XFg4QyiN9iyydcf3hY2ALc" alt="Avatar">
+    <img class = "myImage" src="surya.jpg" alt="Avatar">
     <p class= "heading"> <b>Surya Kranthi</b><br/>
     Cloud Infrastructure<br/>
     Genia</p></a>
