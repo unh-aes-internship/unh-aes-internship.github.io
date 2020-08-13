@@ -12,7 +12,7 @@ nav_order: 4
     <a href="surya">
     <img class = "myImage" src="surya.jpg" alt="Avatar">
     <p class= "heading"> <b>Surya Kranthi</b><br/>
-    Cloud Infrastructure<br/>
+    Cloud Intern<br/>
     Genia</p></a>
     </div>
   </div>
