@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Job Search Resources
+title: Get Ready to Grab an opportunity
 nav_order: 4
 ---
 
@@ -11,3 +11,5 @@ nav_order: 4
     </embed>
 
 </object>
+
+## Cover Letter Templates
